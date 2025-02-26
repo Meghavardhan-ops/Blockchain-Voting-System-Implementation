@@ -30,7 +30,7 @@ A secure and transparent voting application powered by blockchain technology.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blockchain-voting-system.git
+   git clone https://github.com/Meghavardhan-ops/Blockchain-Voting-System-Implementation.git
    cd blockchain-voting-system
    ```
 
